@@ -1,8 +1,6 @@
-https://images.vexels.com/media/users/3/204038/raw/32171678949026310a36e6aa73536f45-web-developer-logo-design.jpg
-
 ### Hi there 👋, I am Mehedi Hasan
 #### Web Developer
-
+![Web Developer](https://images.vexels.com/media/users/3/204038/raw/32171678949026310a36e6aa73536f45-web-developer-logo-design.jpg)
 
 I can made website useing html, css, javascript, jquary and bootstrap I mean i am a front end developer...Because now i am learning programming.I hope after 2 years latter i am a proffetional programmer....Pray  "ALLAH" for me and my family.....❤❤❤ 
 
